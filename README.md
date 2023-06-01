@@ -1,16 +1,16 @@
-# Nome do meu projeto
+# homepage Simples na pratica
 
-Rápida descrição do objetivo de fazer esse projeto
+Portifolio criado para pratica os conhecimentos adiquirido na Alura
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Home Page**
+| :label: Tecnologias | javascript, html, css
+| :rocket: URL         | 
+| :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://raw.githubusercontent.com/Kensyto/homepage/main/WhatsApp%20Image%202023-06-01%20at%2012.22.18.jpeg#vitrinedev)
 
 ## Detalhes do projeto
 
