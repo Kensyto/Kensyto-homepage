@@ -6,7 +6,7 @@ Portifolio criado para pratica os conhecimentos adiquirido na Alura
 | -------------  | --- |
 | :sparkles: Nome        | **Home Page**
 | :label: Tecnologias | javascript, html, css
-| :rocket: URL         | 
+| :rocket: URL         | https://github.com/Kensyto/homepage.git
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
